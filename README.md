@@ -1,6 +1,6 @@
 # PKPD Paracetamol Simulation
 
-Small project for my **master's thesis** .
+Small project for my **bachelors's thesis** .
 
 ## Overview
 This repository contains a simple PK/PD (pharmacokinetic/pharmacodynamic) simulation for paracetamol, plus a least‑squares fitting script.
